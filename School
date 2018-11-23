@@ -1,0 +1,296 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Pentagon &mdash; 100% Free Fully Responsive HTML5 Template by FREEHTML5.co</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
+	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
+	<meta name="author" content="FREEHTML5.CO" />
+
+
+  	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="favicon.ico">
+
+
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Superfish -->
+	<link rel="stylesheet" href="css/superfish.css">
+
+	<link rel="stylesheet" href="css/style.css">
+
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+		<div id="fh5co-wrapper">
+		<div id="fh5co-page">
+		<div id="fh5co-header">
+			<header id="fh5co-header-section">
+				<div class="container">
+					<div class="nav-header">
+						<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
+						<div class="logo_image"><img src="images/seal2.png" alt="Portfolio"style="width:100px;height:50px;">
+						<!-- START #fh5co-menu-wrap -->
+						<nav id="fh5co-menu-wrap" role="navigation">
+							<ul class="sf-menu" id="fh5co-primary-menu">
+								<li class="e">
+									<a href="file:///D:/Notepad++-20181011T234403Z-001/Notepad++/michael/page/index.html">Home</a>
+								</li>
+								
+								
+								<li>
+								
+								
+									<a href="portfolio.html" class="fh5co-sub-ddown">Projects</a>
+									<ul class="fh5co-sub-menu">
+										
+										<li><a href="https://github.com/miiiichael/CC1" target="_blank">CC1</a></li>
+										<li><a href="https://github.com/miiiichael/CC2/tree/master" target="_blank">CC2</a></li>
+										<li><a href="https://github.com/miiiichael/Michael-Orbino/tree/master">CC7</a></li>
+									</ul>
+								</li>
+								<li>
+
+
+										<li>
+											<active><a href="#" class="file:///D:/Notepad++-20181011T234403Z-001/Notepad++/michael/page/pentagon/index.html">My School</a></active>
+											<ul class="fh5co-sub-menu">
+												
+												<li><a href="file:///I:/pentagon/hymn.html" target="_blank">HYMN</a></li>
+
+											</ul>
+										</li>
+										<li><a href="file:///D:/Notepad++-20181011T234403Z-001/Notepad++/michael/page/pentagon/blog.html">Collage Life</a></li>
+										<li><a href="file:///I:/pentagon/Hobby/hobby.html">Hobby</a></li> 
+									</ul>
+								</li>
+
+						</nav>
+					</div>
+				</div>
+			</header>
+			
+		</div>
+		
+
+		<div class="fh5co-hero">
+			<div class="fh5co-overlay"></div>
+<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/uc3.jpg);">
+				<div class="desc animate-box">
+
+					<div class="logo_container">
+							<div class="logo">
+								<div class="logo_image"><img src="images/seal.png" alt="Portfolio"style="width:250px;height:330px;"></div>
+							</div>
+						</div>
+						
+
+
+				</div>
+			</div>
+
+		</div>
+	
+			</div>
+		</div>
+		
+
+		
+		<div id="fh5co-content-section" class="fh5co-section-gray">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
+						<h3>What Others Say</h3>
+						</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<div class="fh5co-testimonial text-center animate-box">
+							<figure>
+								<img src="images/person_1.jpg" alt="user">
+							</figure>
+							<blockquote>
+								<p>“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.”</p>
+							</blockquote>
+							<span>Steve Jobs, .</span>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="fh5co-testimonial text-center animate-box">
+							<figure>
+								<img src="images/person_2.jpg" alt="user">
+							</figure>
+							<blockquote>
+								<p>“I think a simple rule of business is, if you do the things that are easier first, then you can actually make a lot of progress..”</p>
+							</blockquote>
+							<span>mark zuckerberg.</span>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="fh5co-testimonial text-center animate-box">
+							<figure>
+								<img src="images/person_3.jpg" alt="user">
+							</figure>
+							<blockquote>
+								<p>It's really hard to design products by focus groups. A lot of times, people don't know what they want until you show it to them..”</p>
+							</blockquote>
+							<span>Steve Jobs, .</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- fh5co-content-section -->
+
+		<div id="fh5co-services-section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
+
+					<div class="logo_container">
+							<div class="logo">
+								<div class="logo_image"><img src="images/history.jpg" alt="Portfolio"style="width:800px;height:900px;"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+					
+
+		<!-- END What we do -->
+
+
+		<div id="fh5co-blog-section" class="fh5co-section-gray">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
+					<a href="#" class="btn btn-primary btn-lg">UC</a>
+						
+						<h4>mission/vision</h4>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row row-bottom-padded-md">
+					<div class="col-lg-4 col-md-4">
+						<div class="fh5co-blog animate-box">
+							<a href="#"><img class="img-responsive" src="images/blog-1.jpg" alt=""></a>
+							<div class="blog-text">
+								<div class="prod-title">
+									<h2><a href=""#>MISSION</a></h2>
+									<P>The UC Libraries mission is to support the teaching, learning, research and community
+									extension programs of the university through provision of comprehensive information
+									resources and customer-focused services.</P>
+
+								</div>
+							</div> 
+						</div>
+					</div>
+
+<div class="logo_image"><img src="images/seal.png" alt="Portfolio"style="width:330px;height:600px;">
+					
+					
+					<div class="col-lg-4 col-md-4">
+						<div class="fh5co-blog animate-box">
+							<a href="#"><img class="img-responsive" src="images/blog-3.jpg" alt=""></a>
+							<div class="blog-text">
+								<div class="prod-title">
+									<h2><a href=""#>VISION</a></h2>
+									<P>VISION</P>
+									<P>The University of the Cordilleras Libraries envisions itself as an innovative resource center that facilitates the acquisition of knowledge and lifelong learning in the community.</P>
+								</div>
+							</div> 
+						</div>
+					</div>
+				</div>
+				
+
+				<div class="row">
+					<div class="col-md-4 col-md-offset-4 text-center animate-box">
+						<a href="#" class="btn btn-primary btn-lg">Blog</a>
+						<p> Being a CICTS collage student for me is a very hard and fun at the same time, i so blessed to have friends to support me and to help me when i cannot continue any more.</p>
+						<p> This School pushes you towards exelence for you to learn and gain skills we need for our future careers and to use on our daily life.</p>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<!-- fh5co-blog-section -->
+		<footer>
+			<div id="footer">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 text-center">
+							<p class="fh5co-social-icons">
+								<a href="https://www.facebook.com/o.Miiichael"><i class="icon-facebook2"></i></a>
+								<a href="https://www.instagram.com/mii.iichael/"><i class="icon-instagram"></i></a>
+								<a href="https://github.com/"><i class="icon-github"></i></a>
+							</p>
+							<p>Michael<a href="#">Orbino</a>. All Rights Reserved. <br><i class="icon-heart3"></i> <a href="http://freehtml5.co/" target="_blank">Miiiichael</a><a  target="_blank"></a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	
+
+	</div>
+	<!-- END fh5co-page -->
+
+	</div>
+	<!-- END fh5co-wrapper -->
+
+	<!-- jQuery -->
+
+
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Stellar -->
+	<script src="js/jquery.stellar.min.js"></script>
+	<!-- Superfish -->
+	<script src="js/hoverIntent.js"></script>
+	<script src="js/superfish.js"></script>
+
+	<!-- Main JS -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
+
